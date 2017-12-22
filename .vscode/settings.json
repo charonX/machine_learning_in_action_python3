@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/charon/anaconda3/envs/python36/bin/python",
+    "python.formatting.provider": "yapf"
+}
